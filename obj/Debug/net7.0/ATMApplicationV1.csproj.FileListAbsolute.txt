@@ -1,0 +1,15 @@
+D:\FreeLancer\C#\ATMApplicationV1\bin\Debug\net7.0\ATMApplicationV1.exe
+D:\FreeLancer\C#\ATMApplicationV1\bin\Debug\net7.0\ATMApplicationV1.deps.json
+D:\FreeLancer\C#\ATMApplicationV1\bin\Debug\net7.0\ATMApplicationV1.runtimeconfig.json
+D:\FreeLancer\C#\ATMApplicationV1\bin\Debug\net7.0\ATMApplicationV1.dll
+D:\FreeLancer\C#\ATMApplicationV1\bin\Debug\net7.0\ATMApplicationV1.pdb
+D:\FreeLancer\C#\ATMApplicationV1\obj\Debug\net7.0\ATMApplicationV1.csproj.AssemblyReference.cache
+D:\FreeLancer\C#\ATMApplicationV1\obj\Debug\net7.0\ATMApplicationV1.GeneratedMSBuildEditorConfig.editorconfig
+D:\FreeLancer\C#\ATMApplicationV1\obj\Debug\net7.0\ATMApplicationV1.AssemblyInfoInputs.cache
+D:\FreeLancer\C#\ATMApplicationV1\obj\Debug\net7.0\ATMApplicationV1.AssemblyInfo.cs
+D:\FreeLancer\C#\ATMApplicationV1\obj\Debug\net7.0\ATMApplicationV1.csproj.CoreCompileInputs.cache
+D:\FreeLancer\C#\ATMApplicationV1\obj\Debug\net7.0\ATMApplicationV1.dll
+D:\FreeLancer\C#\ATMApplicationV1\obj\Debug\net7.0\refint\ATMApplicationV1.dll
+D:\FreeLancer\C#\ATMApplicationV1\obj\Debug\net7.0\ATMApplicationV1.pdb
+D:\FreeLancer\C#\ATMApplicationV1\obj\Debug\net7.0\ATMApplicationV1.genruntimeconfig.cache
+D:\FreeLancer\C#\ATMApplicationV1\obj\Debug\net7.0\ref\ATMApplicationV1.dll
